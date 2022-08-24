@@ -1,2 +1,3 @@
-# cd2010.100.2022
-CD2010 - Introduction to Econometrics
+# CD2010 Group 100
+
+*Introduction to Econometrics*
